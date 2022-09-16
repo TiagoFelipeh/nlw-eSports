@@ -1,16 +1,18 @@
 # NLW eSports
 
-![prview]
+![Preview](./.github/Preview.png)
 
->Trilha exolorar
+>Trilha expolorar
 
-Projeto contruido no evento Next Level Week da Rocktseat
+Projeto construido no evento Next Level Week da Rocktseat
 
-# Tcnologias
+[Clique aqui para acessar](https://tiagofelipeh.github.io/nlw-eSports/)
 
--HTML
--CSS
--Git e Github
+# Tecnologias
+
+- HTML
+- CSS
+- Git e Github
 
 # Contato
 
